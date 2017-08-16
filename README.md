@@ -9,7 +9,7 @@ Let `guess` is one attempt to guess `n`. If you miss, you get answer `n > guess`
 
 ## Required To Find
 
-The Solution which finds `n` with less `guesses` as possible.
+The Solution which finds `n` in the least number of `guesses`.
 
 ## Questions(in order of complexity)
 
@@ -34,11 +34,11 @@ K=20, total amount is 484743581777777777777 or about 4.8 `guesses` avg.
 
 Find *Computational complexity* in big O notation for *The Solution*.
 
-`*` I don't know the answer, may be you do :)
+`*` I don't know the answer, maybe you do :)
 
 ## Don't read this
 
-Some stuff are available by
+Some stuff is available by
 
     $ ruby g_sum.rb 6
 
