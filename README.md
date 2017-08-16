@@ -20,7 +20,8 @@ Having *The Solution* and K=4, your first guess is `A`(get `n < guess`), second 
 
 ### 2. Total amount of guesses for K = 8
 
-Let `g(number)` is *The Solution*'s amount of guesses for particular number. Example: K=8, `number` is 54545454, g(54545454)=1.
+Let `g(number)` is *The Solution*'s amount of guesses for particular number.
+Example: K=8, `number` is 54545454, n(54545454)=36, g(54545454)=1.
 You have to find sum of `g(number)` for `number` from 00000000 to 99999999.  
 Answer example: total amount is 423297777 or about 4.2 `guesses` avg.
 
