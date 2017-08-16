@@ -35,3 +35,11 @@ K=20, total amount is 484743581777777777777 or about 4.8 `guesses` avg.
 Find *Computational complexity* in big O notation for *The Solution*.
 
 `*` I don't know the answer, may be you do :)
+
+## Don't read this
+
+Some stuff are available by
+
+    $ ruby g_sum.rb 6
+
+*The Well Coded Solution* will be provided after contest.
