@@ -20,19 +20,19 @@ With *The Solution* and `K = 4`, tell the sequence of guesses leading to the rig
 
 ### 2. Total number of guesses for K = 8
 
-Assuming `g(n)` is the number of guesses it takes your algorithm to find the answer for number `n`,
+Assuming `g(number)` is the number of guesses it takes your algorithm to find the `n` for `number`,
 find the average number of guesses in `K = 8` range (`00000000` to `99999999`). To find this, simply
-sum `g(n)` for all numbers in range and divide by their count.
+sum `g(number)` for all numbers in range (and divide by their count).
 
-Example answer: total number of guesses is 423297777 or about 4.2 guesses on average.
+Example answer: total number of guesses is 423297777 or 4.23297777 guesses on average.
 
 ### 3. Total number of guesses for K = 16, 20
 
 Having *The Well Coded Solution*, provide **Question 2** answer for `K = 16` and `K = 20`.
 
 Example answers:
-- `K = 16`, number of guesses is 46763514977777777 or about 4.6 `guesses` on average
-- `K = 20`, number of guesses is 484743581777777777777 or about 4.8 `guesses` on average
+- `K = 16`, number of guesses is 46763514977777777 or 4.6763514977777777 `guesses` on average
+- `K = 20`, number of guesses is 484743581777777777777 or 4.84743581777777777777 `guesses` on average
 
 ### 4. O(K) *
 
