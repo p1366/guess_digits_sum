@@ -16,7 +16,8 @@ The Solution (the algorithm) which finds `n` in the least number of `guess` atte
 
 ### 1. A, B, C
 
-With *The Solution* and `K = 4`, tell the sequence of guesses leading to the right answer.
+Having *The Solution* and K=4, your first guess is `A`(get `n < guess`), second one is
+`B` (get `n < guess`) and third one is `C`. Tell `A, B, C`.
 
 ### 2. Total number of guesses for K = 8
 
