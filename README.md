@@ -14,7 +14,7 @@ The Solution (the algorithm) which finds `n` in the least number of `guess` atte
 
 ## Questions (in order of complexity)
 
-### 1. A, B, C
+### 1. A, B, C (first three guesses for K=4)
 
 Having *The Solution* and K=4, your first guess is `A`(get `n < guess`), second one is
 `B` (get `n < guess`) and third one is `C`. Tell `A, B, C`.
